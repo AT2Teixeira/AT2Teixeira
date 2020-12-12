@@ -1,7 +1,25 @@
-### Hi there 👋
+### Olá! 👋
+
+<a target="_blank" href="https://discord.com/invite/CsSwGDe">
+  <img align="left" alt="Discord" width="22px" src="https://simpleicons.org/icons/discord.svg" />
+</a>
+<a target="_blank" href="https://www.youtube.com/channel/UCKGhTJRbm27UK1ueZUqjRpw">
+  <img align="left" alt="Youtube" width="22px" src="https://simpleicons.org/icons/youtube.svg" />
+</a>
+<a target="_blank" href="https://www.twitch.tv/at2teixeira_">
+  <img align="left" alt="Twitch" width="22px" src="https://simpleicons.org/icons/twitch.svg" />
+</a>
+<a target="_blank" href="https://www.instagram.com/andre._.teixeira222">
+  <img align="left" alt="Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />
+</a>
+
+</br>
+
+---
+
 
 <!--
-**AT2teixeira/AT2teixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AT2teixeira/AT2Teixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
