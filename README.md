@@ -25,6 +25,8 @@
 <img align="left" alt="Php" width="22px" src="https://simpleicons.org/icons/php.svg" />
 <img align="left" alt="React" width="22px" src="https://simpleicons.org/icons/react.svg" />
 
+</br>
+
 ---
 
 - Projeto Bot para Discord (AT Bot):
