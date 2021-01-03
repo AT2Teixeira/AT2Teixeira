@@ -1,5 +1,6 @@
 ### Olá! 👋
 
+- Redes Sociais
 <a target="_blank" href="https://discord.com/invite/CsSwGDe">
   <img align="left" alt="Discord" width="22px" src="https://simpleicons.org/icons/discord.svg" />
 </a>
@@ -16,6 +17,9 @@
 </br>
 
 ---
+
+</br>
+
 - Linguagens que programo, estudo e/ou tenho interesse:
 <img align="left" alt="JS" width="22px" src="https://simpleicons.org/icons/javascript.svg" />
 </a>
@@ -23,9 +27,9 @@
 </a>
 <img align="left" alt="CSS" width="22px" src="https://simpleicons.org/icons/css3.svg" />
 </a>
-<img align="left" alt="Discord" width="22px" src="https://simpleicons.org/icons/php.svg" />
+<img align="left" alt="Php" width="22px" src="https://simpleicons.org/icons/php.svg" />
 </a>
-<img align="left" alt="Discord" width="22px" src="https://simpleicons.org/icons/react.svg" />
+<img align="left" alt="React" width="22px" src="https://simpleicons.org/icons/react.svg" />
 </a>
 
 
