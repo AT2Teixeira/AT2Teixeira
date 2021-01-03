@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- Redes Sociais
+- Redes Sociais:
 <a target="_blank" href="https://discord.com/invite/CsSwGDe">
   <img align="left" alt="Discord" width="22px" src="https://simpleicons.org/icons/discord.svg" />
 </a>
