@@ -10,9 +10,6 @@
 <a target="_blank" href="https://www.twitch.tv/at2teixeira_">
   <img align="left" alt="Twitch" width="22px" src="https://simpleicons.org/icons/twitch.svg" />
 </a>
-<a target="_blank" href="https://www.instagram.com/andre._.teixeira222">
-  <img align="left" alt="Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />
-</a>
 
 </br>
 
