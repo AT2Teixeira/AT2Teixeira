@@ -1,4 +1,4 @@
-## Olá! 👋 ![](https://komarev.com/ghpvc/?username=AT2Teixeira&color=56a0f6&style=plastic&label=Visitas+No+Perfil)
+## Olá! 👋
 <div align="left">
   <a href="https://github.com/AT2teixeira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AT2teixeira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
