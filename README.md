@@ -2,6 +2,8 @@
 <div align="left">
   <a href="https://github.com/AT2teixeira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AT2teixeira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+</div>
+<div align="left">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=At2Teixeira&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
