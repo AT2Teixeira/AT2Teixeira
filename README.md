@@ -6,7 +6,7 @@
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=AT2Teixeira&theme=dark&hide_border=true&mode=weekly&background=36393F&currStreakNum=4FABFC&sideNums=4FABFC&fire=4F7DFC&currStreakLabel=5ABBFF&stroke=9098A8&ring=4F7DFC&sideLabels=5ABBFF&dates=9098A8)](https://git.io/streak-stats"/>
 </div>
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -18,7 +18,7 @@
   
   ##
  
-<div> 
+<div align="center"> 
   <a href = "https://at2.discloud.app"><img src="https://img.shields.io/badge/Website-4fabfc?style=for-the-badge&logo=SitePoint&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/CsSwGDe" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UCKGhTJRbm27UK1ueZUqjRpw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
