@@ -4,6 +4,7 @@
   <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=AT2Teixeira&cc=36393f&tc=4fabfc&ic=4fabfc&bc=000"/>
 </div>
 <div align="center">
+  <a href="https://github.com/AT2teixeira">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=AT2Teixeira&theme=dark&hide_border=true&mode=weekly&background=36393F&currStreakNum=4FABFC&sideNums=4FABFC&fire=4F7DFC&currStreakLabel=5ABBFF&stroke=9098A8&ring=4F7DFC&sideLabels=5ABBFF&dates=9098A8)](https://git.io/streak-stats"/>
 </div>
 <div align="center" style="display: inline_block"><br>
